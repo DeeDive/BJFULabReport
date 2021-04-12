@@ -17,3 +17,6 @@ LaTeX Lab Report Template for Beijing Forestry University
 + 与我们一起创建或维护项目的 Wiki 文档，Wiki 任何人都可以直接编辑；
 + 向周围同学安利 BJFULabReport，让更多有需要的同学使用模板；
 + 通过各种聊天渠道联系我们，成为项目的长期维护者:)
+
+## 致谢
+感谢所有为模板贡献过代码的同学们，以及所有测试和使用模板的各位同学。
