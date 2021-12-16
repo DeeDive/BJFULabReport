@@ -1,5 +1,5 @@
 # BJFULabReport
-
+[![Page Views Count](https://badges.toozhao.com/badges/01FQ0AKJADE9D565SJ7JV1H6KE/green.svg)](https://badges.toozhao.com/stats/01FQ0AKJADE9D565SJ7JV1H6KE "Get your own page views count badge on badges.toozhao.com")
 ## 欢迎使用BJFU实验报告模板
 
 此仓库旨在提供一个简单易用的北京林业大学实验报告 LaTeX 模板，用户可以参考或者直接基于此示例文档撰写报告。
